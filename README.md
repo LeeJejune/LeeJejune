@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Junior Backend Developer 🚀</h3>
 
 ## About Me
-- **🏫 Kookmin University (Dept. of Software)**
+- 🏫 Kookmin University (Dept. of Software)
 - 👀 [SOPT](http://sopt.org/wp/) 29th Server (Sep 2021~)
 - 🔗 my develop [blog](https://velog.io/@dlwpwns)
 - 📫 my email leejejune0625@gmail.com
