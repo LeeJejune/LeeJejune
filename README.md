@@ -4,6 +4,7 @@
 ## About Me
 - 🏫 Kookmin University (Dept. of Software)
 - 👀 [SOPT](http://sopt.org/wp/) 29th Server (Sep 2021 ~ Jan 2022)
+- 💾 [SOPT-TERM](http://sopt.org/wp/) 30th Server part (Jan 2022 ~ May 2022)
 - 🔗 my develop [blog](https://velog.io/@dlwpwns)
 - 📫 my email leejejune0625@gmail.com
 
