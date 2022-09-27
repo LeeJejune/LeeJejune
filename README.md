@@ -5,6 +5,7 @@
 - 🏫 Kookmin University (Dept. of Software)
 - 👀 [SOPT](http://sopt.org/wp/) 29th Server (Sep 2021 ~ Jan 2022)
 - 💾 [SOPT-TERM](http://sopt.org/wp/) 30th Server part (Jan 2022 ~ May 2022)
+- 💙 [디프만(Depromeet)](https://www.depromeet.com/) 12th Backend (Sep 2022 ~ Jan 2023)
 - 🔗 my develop [blog](https://velog.io/@dlwpwns)
 - 📫 my email leejejune0625@gmail.com
 
