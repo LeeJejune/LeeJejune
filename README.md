@@ -18,5 +18,3 @@
 ![mysql](https://user-images.githubusercontent.com/81547780/151383044-94bcd7b8-3a58-42b2-b5f5-716089036769.svg)
 ![포스트그레스이미지](https://user-images.githubusercontent.com/81547780/151510663-2f551209-b215-4a4a-be79-a9e1ec4ce3eb.svg)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJejune&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
