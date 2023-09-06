@@ -1,13 +1,11 @@
 <h1 align="center"> Hello, I'm Jejune Lee 🐱</h1>
-<h3 align="center">🚀 Junior Backend Developer 🚀</h3>
 
 ## 🔍 About Me
-- 🏫 Kookmin University (Dept. of Software)
+- 🚀 Junior Backend Developer
 - 👀 [SOPT](http://sopt.org/wp/) 29th Server (Sep 2021 ~ Jan 2022)
-- 💾 [SOPT-TERM](http://sopt.org/wp/) 30th Server part (Jan 2022 ~ May 2022)
 - 💙 [디프만(Depromeet)](https://www.depromeet.com/) 12th Backend (Sep 2022 ~ Jan 2023)
 - 🤍 [디프만(Depromeet)](https://www.depromeet.com/) 13th Backend (Apr 2023 ~ Jul 2023)
-- ⭐ [GDSC-Kookmin(22-23)](https://sites.google.com/view/gdeveloperskorea/gdsc) 22-23 Backend-Lead (Sep 2022 ~ Sep 2023)
+- 🖤 [디프만(Depromeet)](https://www.depromeet.com/) 14th Organizer (Sep 2023 ~ )
 - 📫 my email leejejune0625@gmail.com
 
 ## 🌟 Release
