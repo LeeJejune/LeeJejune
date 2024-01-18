@@ -9,9 +9,9 @@
 - 📫 my email leejejune0625@gmail.com
 
 ## 🌟 Release
-| Project | Remark | Role |
-|---------|---|----|
-| <img src="https://user-images.githubusercontent.com/81547780/231486274-a26347a4-1531-45b5-8696-6e997b9d48d5.png" width="20px" height="20px"/> 비마이플랜 - 여행 계획이 귀찮은 당신을 위한 여행 일정 스토어 | [![app store badge](http://img.shields.io/badge/App%20Store-0D96F6?logoColor=white&style=flat-square&logo=appstore&link=https://apps.apple.com/kr/app/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%94%8C%EB%9E%9C-%EC%97%AC%ED%96%89-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id1627682568)](https://apps.apple.com/kr/app/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%94%8C%EB%9E%9C-%EC%97%AC%ED%96%89-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id1627682568) | Server Developer |
+| Project | Remark | Role | Date |
+|---------|---|----|----|
+| <img src="https://user-images.githubusercontent.com/81547780/231486274-a26347a4-1531-45b5-8696-6e997b9d48d5.png" width="20px" height="20px"/> 비마이플랜 - 여행 계획이 귀찮은 당신을 위한 여행 일정 스토어 | [![app store badge](http://img.shields.io/badge/App%20Store-0D96F6?logoColor=white&style=flat-square&logo=appstore&link=https://apps.apple.com/kr/app/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%94%8C%EB%9E%9C-%EC%97%AC%ED%96%89-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id1627682568)](https://apps.apple.com/kr/app/%EB%B9%84%EB%A7%88%EC%9D%B4%ED%94%8C%EB%9E%9C-%EC%97%AC%ED%96%89-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id1627682568) | Server Developer | 2021.01 ~ 2023.12 |
 
 ## ⚙ Tech Stack
 
