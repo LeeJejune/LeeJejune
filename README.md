@@ -11,7 +11,7 @@
 - 👀 [SOPT](http://sopt.org/wp/) 29th Server (Sep 2021 ~ Jan 2022)
 - 💙 [디프만(Depromeet)](https://www.depromeet.com/) 12th Backend (Sep 2022 ~ Jan 2023)
 - 🤍 [디프만(Depromeet)](https://www.depromeet.com/) 13th Backend (Apr 2023 ~ Jul 2023)
-- 🖤 [디프만(Depromeet)](https://www.depromeet.com/) 14th Organizer (Sep 2023 ~ )
+- 🖤 [디프만(Depromeet)](https://www.depromeet.com/) 14th Organizer (Sep 2023 ~ Feb 2024)
 
 
 ## :octocat: Contributions
