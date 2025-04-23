@@ -23,7 +23,7 @@
 ![자바이모지](https://user-images.githubusercontent.com/81547780/151382642-730da5c5-5f6b-42da-b900-23a85253863a.svg)
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 ![스프링이모지](https://user-images.githubusercontent.com/81547780/151382709-a5bfb83a-c82b-429f-8d22-e6d2e57bf29c.svg)
-<img alt="Html" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?&logo=springboot&logoColor=white">
 ![mysql](https://user-images.githubusercontent.com/81547780/151383044-94bcd7b8-3a58-42b2-b5f5-716089036769.svg)
 ![포스트그레스이미지](https://user-images.githubusercontent.com/81547780/151510663-2f551209-b215-4a4a-be79-a9e1ec4ce3eb.svg)
 
