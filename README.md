@@ -1,11 +1,12 @@
 <h1 align="center"> Hello, I'm Jejune Lee 🐱</h1>
 
 ## 🔍 About Me
-- 🚀 Junior Backend-base Developer
-- 📚 prefer server development using Python, Java/Kotlin
-- 👀 interested in software architecture and DDD, and how to use the components efficiently or correctly!
-- 📫 my email leejejune0625@gmail.com
-
+- 🚀 Junior Software Engineer (Backend-Base)
+  - Backend/Data Engineer Intern (<img src="https://github.com/user-attachments/assets/d1bbf285-9fe0-4710-ae64-358d12fbeac8" height="22" />  Kakao Mobility · Jan 2026 ~ Jul 2026)
+  - Backend Engineer (Uniquegood Company · Feb 2023 ~ Jul 2025)
+- 📚 Prefer server-side development with Python and Java/Kotlin
+- 👀 Interested in software architecture, DDD, and designing components effectively
+- 📫 Email: [leejejune0625@gmail.com](mailto:leejejune0625@gmail.com)
 
 ## 🌟 Experience
 - 👀 [SOPT](http://sopt.org/wp/) 29th Server (Sep 2021 ~ Jan 2022)
