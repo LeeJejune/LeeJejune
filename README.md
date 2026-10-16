@@ -2,7 +2,7 @@
 
 ## 🔍 About Me
 - 🚀 Junior Software Engineer (Backend-Base)
-  - Backend/Data Engineer Intern (<img src="https://github.com/user-attachments/assets/d1bbf285-9fe0-4710-ae64-358d12fbeac8" height="22" />  Kakao Mobility · Jan 2026 ~ Jul 2026)
+  - Backend/Data Engineer Intern Kakao Mobility · Jan 2026 ~ Jul 2026)
   - Backend Engineer (Uniquegood Company · Feb 2023 ~ Jul 2025)
 - 📚 Prefer server-side development with Python and Java/Kotlin
 - 👀 Interested in software architecture, DDD, and designing components effectively
